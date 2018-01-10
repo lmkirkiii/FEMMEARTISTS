@@ -57,3 +57,19 @@ img.helpful{
   font-style: italic;
   font-family:fantasy;
 }
+.faboulous{
+  font-family:cursive;
+  color:violet
+  font-size:25px;
+}
+.purp{
+  background-color: purple;
+}
+.yellow{
+  background-color: yellow;
+}
+.home{
+  color: blue;
+  font-size: 35px;
+  font-family: fantasy;
+}
