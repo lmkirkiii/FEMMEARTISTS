@@ -73,3 +73,11 @@ img.helpful{
   font-size: 35px;
   font-family: fantasy;
 }
+.beep{
+  height: 200px;
+  width: 100px;
+}
+.boop{
+  height: 200px;
+  width: 500px;
+}
